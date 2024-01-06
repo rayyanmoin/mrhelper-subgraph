@@ -1,0 +1,9 @@
+HelperFactory: 0xcBa96A9fb390C84293A8535aa5D829167A155618
+Helper: 0xc0f3EeECF1f9Dd8E13C81100DE7fb3F627490dba
+
+Build completed: QmT8m6fNSuCdJJtomGfGLp2W7VoWRPvNrWJ3kKo92BPFmy
+
+Deployed to https://thegraph.com/studio/subgraph/mrhelper
+
+Subgraph endpoints:
+Queries (HTTP):     https://api.studio.thegraph.com/query/62445/mrhelper/v0.0.1
